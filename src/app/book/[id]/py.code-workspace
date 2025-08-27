@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "D:/py"
+		},
+		{
+			"path": "../../../../../../AstroExplorer-1"
+		},
+		{
+			"path": "../../../../../../Novix"
+		},
+		{
+			"path": "D:/amnah"
+		},
+		{
+			"name": "python",
+			"path": "D:/web/python"
+		},
+		{
+			"path": "D:/web/web"
+		},
+		{
+			"name": "PS",
+			"path": "D:/py/PS"
+		},
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "STARTER_FS-Unit-00_Pre-Work_Amana-Books",
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "python",
+		"vscode-pets.theme": "winter"
+	}
+}
